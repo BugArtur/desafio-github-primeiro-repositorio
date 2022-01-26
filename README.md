@@ -3,4 +3,6 @@
 primeiro repositorio compartilhado
 - [x] teste 1
 - [ ] test2
-- [ ] teste5 
+- [ ] teste5
+- [x] sdasd
+- [ ]  
